@@ -1,7 +1,5 @@
 # Turing-Machine-Plate-Check
 
-# Turing Plate Validator 🚗
-
 Bu proje, Python kullanılarak geliştirilmiş bir deterministik Turing Makinesi (TM) simülatörüdür. Temel amacı, girilen araç plakalarının önceden belirlenmiş bir formata uygun olup olmadığını durum geçişleri (state transitions) kullanarak denetlemektir.
 
 Doğrulama işlemi geleneksel `if-else` koşullarıyla değil, tamamen Turing Makinesi durum ve bant mantığıyla (q0, q1... q7, KABUL, RED) modellenmiştir.
